@@ -1,3 +1,3 @@
 # BeverGamble
-bever gamble better gamble
+Bever Gamble Better Gamble
 Opa Gagnam Style
